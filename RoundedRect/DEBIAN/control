@@ -1,8 +1,8 @@
 Package: com.mustafabakrol.roundedrect
 Name: RoundedRect
-Version: 1.0.1
+Version: 1.1
 Architecture: iphoneos-arm
-Description: Laetus Theme.
+Description: A Laetus Theme with rounded rectangles
 Homepage: NA
 Maintainer: Mustafa
 Author: Mustafa
