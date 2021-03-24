@@ -1,0 +1,19 @@
+.main-bg
+{
+    background: #18181a;
+}
+
+.borders
+{
+    border-radius:13px;border:2px solid #313131
+}
+
+.border-bg
+{
+    background:#1e1f24
+}
+
+.ln-height
+{
+    height:49px !important;
+}
