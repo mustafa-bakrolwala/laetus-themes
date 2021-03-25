@@ -1,0 +1,39 @@
+.main-bg
+{
+    background: #18181a;
+}
+
+.borders
+{
+    border-radius:6px;border:0px solid #313131;
+    box-shadow: 1px 1px 2px #95a9cb;
+}
+
+.border-bg
+{
+    background:#1e1f24
+}
+
+.cell-bg
+{
+    background:#202125
+}
+
+.cell-dist
+{
+    width:34px; margin-left: 7px;
+}
+
+.char-width
+{
+    width:49px !important;
+}
+.ln-height
+{
+    height:47px !important;
+}
+
+.num-ln-height
+{
+    height:48px !important;
+}
