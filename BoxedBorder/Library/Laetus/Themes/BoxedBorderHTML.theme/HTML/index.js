@@ -17,3 +17,11 @@ function laetusKeyPlaneDidChange(state) {
     else
         $('#numpad').hide();
 }
+
+function laetusRawKeyPlaneDidChange(state) {
+    if(state.indexOf('Portrait') == -1){
+        $('#letters').hide();
+        $('#numbers').hide();
+        $('#numpad').hide();
+    }
+}
