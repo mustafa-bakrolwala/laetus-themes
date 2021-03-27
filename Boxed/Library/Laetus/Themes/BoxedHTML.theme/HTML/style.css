@@ -1,0 +1,48 @@
+.main-bg
+{
+    background: #18181a;
+}
+
+.kb-row
+{
+    margin-top:2%;margin-left:1%;margin-right:1%;
+}
+
+.row-height
+{
+    height: 15.5%;
+}
+
+.borders
+{
+    border-radius:0px;border:0px solid #313131;
+}
+
+.border-bg
+{
+    background:#1e1f24
+}
+
+.cell-bg
+{
+    background:#202125
+}
+
+.cell-dist
+{
+    width:8.9%; margin-left: 1.2%;
+}
+
+.char-width
+{
+    width:12.7% !important;
+}
+.ln-height
+{
+    height:15.5% !important;
+}
+
+.num-ln-height
+{
+    height:15.5% !important;
+}

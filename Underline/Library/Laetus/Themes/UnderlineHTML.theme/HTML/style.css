@@ -1,0 +1,66 @@
+.main-bg
+{
+    background: #18181a;
+}
+
+.kb-row
+{
+    margin-top:2%;margin-left:1%;margin-right:1%;
+}
+
+.row-height
+{
+    height: 15.5%;
+}
+
+.borders:before
+{
+    border-bottom:2px solid #515151;
+    content: ""; /* This is necessary for the pseudo element to work. */ 
+    display: block; /* This will put the pseudo element on its own line. */
+    margin: 0 auto; /* This will center the border. */
+    width: 75%; /* Change this to whatever width you want. */
+    padding-top: 0; /* This creates some space between the element and the border. */
+    height: 100%;
+    
+}
+
+.borders:after
+{
+    border-top:2px solid #515151;
+    content: ""; /* This is necessary for the pseudo element to work. */ 
+    display: block; /* This will put the pseudo element on its own line. */
+    margin: 0 auto; /* This will center the border. */
+    width: 75%; /* Change this to whatever width you want. */
+    padding-top: 0; /* This creates some space between the element and the border. */
+    
+}
+
+.border-bg
+{
+    background:#1e1f24
+}
+
+.cell-bg
+{
+    background:#202125
+}
+
+.cell-dist
+{
+    width:8.9%; margin-left: 1.2%;
+}
+
+.char-width
+{
+    width:12.7% !important;
+}
+.ln-height
+{
+    height:15.5% !important;
+}
+
+.num-ln-height
+{
+    height:15.5% !important;
+}
