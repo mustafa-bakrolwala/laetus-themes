@@ -8,6 +8,16 @@
     height: 16%;
 }
 
+.kb-row-landscape
+{
+    margin-top:0.8%;margin-left:13.5%;margin-right:13.5%;
+}
+
+.row-height-landscape
+{
+    height: 17.7%;
+}
+
 .borders
 {
     border-radius:13px;border:2px solid #313131;

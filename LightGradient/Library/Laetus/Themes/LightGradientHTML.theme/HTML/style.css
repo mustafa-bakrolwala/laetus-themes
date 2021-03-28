@@ -14,6 +14,16 @@ background-image: linear-gradient(315deg, #f6f0c4 0%, #d99ec9 74%);
     height: 15.5%;
 }
 
+.kb-row-landscape
+{
+    margin-top:1.1%;margin-left:13.5%;margin-right:13.5%;
+}
+
+.row-height-landscape
+{
+    height: 17%;
+}
+
 .borders
 {
     border-radius:6px;border:0px solid #a5a5a5;
